@@ -22,8 +22,8 @@ window.title("Knowledge-BD")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
 
-front_bg_img = ImageTk.PhotoImage(Image.open("images/card_front.png"))  
-back_bg_img = ImageTk.PhotoImage(Image.open("images/card_back.png"))   
+front_bg_img = ImageTk.PhotoImage(Image.open("images/b3.PNG"))  
+back_bg_img = ImageTk.PhotoImage(Image.open("images/b1.PNG"))   
 
 canvas = Canvas(window, width=800, height=400, bg=BACKGROUND_COLOR, highlightthickness=0)
 card_bg = canvas.create_image(400, 200, image=front_bg_img)  
