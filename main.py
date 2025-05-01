@@ -22,13 +22,13 @@ window.title("Knowledge-BD")
 window.config(padx=50, pady=50, bg=BACKGROUND_COLOR)
 
 
-front_bg_img = ImageTk.PhotoImage(Image.open("images/card_front.png"))  # Front
-back_bg_img = ImageTk.PhotoImage(Image.open("images/card_back.png"))   # Back
+front_bg_img = ImageTk.PhotoImage(Image.open("images/card_front.png"))  
+back_bg_img = ImageTk.PhotoImage(Image.open("images/card_back.png"))   
 
 canvas = Canvas(window, width=800, height=400, bg=BACKGROUND_COLOR, highlightthickness=0)
-card_bg = canvas.create_image(400, 200, image=front_bg_img)  # Centered
-card_question = canvas.create_text(400, 120, text="", font=("Ariel", 20, "italic"))
-card_answer = canvas.create_text(400, 250, text="", font=("Ariel", 20, "bold"))
+card_bg = canvas.create_image(400, 200, image=front_bg_img)  
+card_question = canvas.create_text(400, 120, text="", font=("Ariel", 20, "italic"), width=600)
+card_answer = canvas.create_text(400, 250, text="", font=("Ariel", 20, "bold"),width=600)
 canvas.grid(row=0, column=0, columnspan=2)
 
 flip_timer=None
