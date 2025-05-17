@@ -1,90 +1,133 @@
-Question,Answer
-Who is the current Prime Minister of Bangladesh?,Sheikh Hasina
-How many parliamentary seats are there in Bangladesh?,350
-What is the voting age in Bangladesh?,18 years
-When did Bangladesh achieve independence?,26th March 1971
-Who was the first president of Bangladesh?,Sheikh Mujibur Rahman
-What is the significance of December 16th in Bangladesh?,Victory Day of Bangladesh
-What are the major political parties in Bangladesh?,Bangladesh Awami League and Bangladesh Nationalist Party
-What is the role of the President in Bangladesh?,The President is the head of state and performs ceremonial duties.
-What is the role of the Prime Minister in Bangladesh?,The Prime Minister is the head of government and holds executive power.
-How are members of parliament elected in Bangladesh?,Through a general election based on universal adult suffrage.
-What is the judicial system like in Bangladesh?,The judiciary is independent  with a Supreme Court at the apex.
-What are the fundamental rights guaranteed by the Bangladesh constitution?,Rights such as freedom of speech  assembly and religion are guaranteed.
-Who became the Nawab of Bengal after the Battle of Giria in 1740?,Alivardi Khan
-Which company gained control of Bengal after 1765?,British East India Company
-When was Dhaka College established?,1841
-What did the Permanent Settlement Act of 1793 establish?,Zamindari system in Bengal
-When was the University of Calcutta established?,1857
-What year was the All India Muslim League founded?,1906
-Where was the Muslim League founded?,Dhaka
-What was the objective of the Lahore Resolution in 1940?,A separate Muslim homeland
-Who was the main architect of the Lahore Resolution?,A. K. Fazlul Huq
-When was the partition of Bengal reversed?,1911
-When did the Language Movement peak?,1952
-What year did Pakistan impose Urdu as the only state language?,1948
-When did the Liberation War of Bangladesh begin?,"March 26, 1971"
-What was Operation Searchlight?,Pakistani military crackdown in East Pakistan
-Who declared Bangladesh's independence?,Sheikh Mujibur Rahman
-When did the war of liberation end?,"December 16, 1971"
-What was the role of Mukti Bahini?,Bangladeshi guerrilla resistance movement
-Who became President after Sheikh Mujibur Rahman?,Khandaker Mushtaque Ahmed
-Who led the pro-democracy movement in 1990?,Khaleda Zia and Sheikh Hasina
-When was the caretaker government system introduced?,1996
-Who has been Prime Minister of Bangladesh since 2009?,Sheikh Hasina
-What is the Digital Security Act?,A law introduced in 2018 to regulate online content
-When was the Padma Bridge inaugurated?,2022
-What international crisis affected Bangladesh's economy in 2022?,Global inflation and fuel price hikes
-What protest movement emerged in 2023?,Anti-government rallies led by opposition
-When did Bangladesh gain independence?,1971
-Who was the founding father of Bangladesh?,Sheikh Mujibur Rahman
-When was the first general election held in Bangladesh?,1973
-What year did Sheikh Mujibur Rahman become Prime Minister?,1972
-Which political party was formed by Ziaur Rahman?,Bangladesh Nationalist Party (BNP)
-Who was the first female Prime Minister of Bangladesh?,Khaleda Zia
-What is the name of the political alliance led by Awami League?,Grand Alliance
-When was the caretaker government system abolished?,2011
-What is the name of the current Prime Minister of Bangladesh (2025)?,Sheikh Hasina
-What was the main demand of the 1952 Language Movement?,Recognition of Bengali as a state language
-When was International Mother Language Day declared by UNESCO?,1999
-What is the literacy rate in Bangladesh as of 2023?,Approximately 76%
-Which social reformer is known for founding BRAC?,Fazle Hasan Abed
-Which organization pioneered microcredit in Bangladesh?,Grameen Bank
-What does the program 'Ashrayan' aim to do?,Provide housing for the homeless
-Which ethnic minority resides in the Chittagong Hill Tracts?,Chakma
-What is the term for community-based rural banking in Bangladesh?,Microfinance
-What is the national language of Bangladesh?,Bengali
-Which Bengali poet won the Nobel Prize in Literature?,Rabindranath Tagore
-Which is a major traditional festival in Bangladesh?,Pahela Baishakh
-What is the national instrument of Bangladesh?,Ektara
-Which dance form is traditional to Bangladesh?,Jatra
-What does the festival Nabanna celebrate?,New rice harvest
-What is the name of the folk singer famous for Baul music?,Lalon Shah
-What is the significance of the Shaheed Minar?,Memorial for Language Movement martyrs
-Which day is celebrated as Pohela Falgun?,First day of spring in Bengali calendar
-What is the currency of Bangladesh?,Taka
-What is Bangladesh's largest export industry?,Ready-made garments
-Who is known as the pioneer of microfinance in Bangladesh?,Muhammad Yunus
-When did Bangladesh become a lower-middle-income country?,2015
-What does GDP stand for?,Gross Domestic Product
-Which river is important for jute cultivation?,Ganges
-What is the name of Bangladesh's stock exchange?,Dhaka Stock Exchange
-Which product is considered Bangladesh's 'golden fiber'?,Jute
-Which is the largest mangrove forest in the world?,Sundarbans
-Which endangered animal is found in Sundarbans?,Royal Bengal Tiger
-What is the main cause of flooding in Bangladesh?,Monsoon rains and river overflow
-Which delta is Bangladesh part of?,Ganges-Brahmaputra Delta
-What environmental issue affects Dhaka most?,Air pollution
-Which organization monitors cyclones in Bangladesh?,Bangladesh Meteorological Department
-When did Cyclone Sidr hit Bangladesh?,2007
-Which city hosted the 2011 Cricket World Cup matches in Bangladesh?,Dhaka
-What is the name of Bangladesh's T20 franchise league?,Bangladesh Premier League
-Which Bangladeshi shooter won gold in Commonwealth Games?,Abdullah Hel Baki
-Which stadium is known as the home of cricket in Bangladesh?,Sher-e-Bangla National Cricket Stadium
-What was the significance of the Battle of Buxar?,Secured British rule over Bengal
-Who led the Fakir-Sannyasi Rebellion?,Majnu Shah
-Who annulled the partition of Bengal in 1911?,Lord Hardinge
-What was the Bengal Famine of 1943?,A deadly famine under British rule
-When was the Lahore Resolution passed?,1940
-What day is observed as Victory Day in Bangladesh?,Dec-16
-What is the date of Language Martyrs Day?,Feb-21
+Category,Question,Answer
+CULTURE,Which is a major traditional festival in Bangladesh?,Pahela Baishakh
+CULTURE,What is the national instrument of Bangladesh?,Ektara
+CULTURE,Which dance form is traditional to Bangladesh?,Jatra
+CULTURE,What does the festival Nabanna celebrate?,New rice harvest
+CULTURE,What is the name of the folk singer famous for Baul music?,Lalon Shah
+CULTURE,Which region is famous for Nakshi Kantha embroidery?,Rajshahi
+ECONOMY,What is the term for community-based rural banking in Bangladesh?,Microfinance
+ECONOMY,What is Bangladesh's largest export industry?,Ready-made garments
+ECONOMY,Who is known as the pioneer of microfinance in Bangladesh?,Muhammad Yunus
+ECONOMY,When did Bangladesh become a lower-middle-income country?,2015
+ECONOMY,What does GDP stand for?,Gross Domestic Product
+ECONOMY,Which river is important for jute cultivation?,Ganges
+ECONOMY,What is the name of Bangladesh's stock exchange?,Dhaka Stock Exchange
+ECONOMY,Which product is considered Bangladesh's 'golden fiber'?,Jute
+ECONOMY,What economic zone is being developed near Chittagong?,Mirsarai Economic Zone
+ECONOMY,Which country is the largest investor in Bangladesh (as of 2023)?,China
+GEOGRAPHY,Which is the largest mangrove forest in the world?,Sundarbans
+GEOGRAPHY,Which endangered animal is found in Sundarbans?,Royal Bengal Tiger
+GEOGRAPHY,What is the main cause of flooding in Bangladesh?,Monsoon rains and river overflow
+GEOGRAPHY,What natural disaster is common in Bangladesh?,Cyclones
+GEOGRAPHY,Which delta is Bangladesh part of?,Ganges-Brahmaputra Delta
+GEOGRAPHY,What environmental issue affects Dhaka most?,Air pollution
+GEOGRAPHY,What project is aimed at tackling coastal erosion?,Blue Gold Project
+GEOGRAPHY,Which organization monitors cyclones in Bangladesh?,Bangladesh Meteorological Department
+GEOGRAPHY,When did Cyclone Sidr hit Bangladesh?,2007
+GK,What is the official name of Bangladesh?,The People's Republic of Bangladesh
+GK,What type of government does Bangladesh have?,Parliamentary democracy
+GK,Who is the current President of Bangladesh?,Mohammed Shahabuddin
+GK,Who is the current Prime Minister of Bangladesh?,Sheikh Hasina
+GK,What is the name of the parliament of Bangladesh?,Jatiya Sangsad
+GK,How many parliamentary seats are there in Bangladesh?,350
+GK,What is the voting age in Bangladesh?,18 years
+GK,When did Bangladesh achieve independence?,26th March 1971
+GK,Who was the first president of Bangladesh?,Sheikh Mujibur Rahman
+GK,Who led the liberation war of Bangladesh in 1971?,Sheikh Mujibur Rahman
+GK,What is the significance of March 26th in Bangladesh?,Independence Day of Bangladesh
+GK,What is the significance of December 16th in Bangladesh?,Victory Day of Bangladesh
+GK,What are the major political parties in Bangladesh?,Bangladesh Awami League and Bangladesh Nationalist Party
+GK,What is the role of the President in Bangladesh?,The President is the head of state and performs ceremonial duties.
+GK,What is the role of the Prime Minister in Bangladesh?,The Prime Minister is the head of government and holds executive power.
+GK,How are members of parliament elected in Bangladesh?,Through a general election based on universal adult suffrage.
+GK,What is the judicial system like in Bangladesh?,The judiciary is independent  with a Supreme Court at the apex.
+GK,What are the fundamental rights guaranteed by the Bangladesh constitution?,Rights such as freedom of speech  assembly and religion are guaranteed.
+GK,Who was the first President of Bangladesh?,Sheikh Mujibur Rahman
+GK,When was the first constitution of Bangladesh adopted?,1972
+GK,What form of government did the 1972 Constitution establish?,Parliamentary democracy
+GK,Who became President after Sheikh Mujibur Rahman?,Khandaker Mushtaque Ahmed
+GK,Who led the pro-democracy movement in 1990?,Khaleda Zia and Sheikh Hasina
+GK,What year did Bangladesh return to democracy?,1991
+GK,Who was the first female Prime Minister of Bangladesh?,Khaleda Zia
+GK,When was the caretaker government system introduced?,1996
+GK,When was the Chittagong Hill Tracts Peace Accord signed?,1997
+GK,Who has been Prime Minister of Bangladesh since 2009?,Sheikh Hasina
+GK,What was the Padma Bridge scandal about?,Alleged corruption in a major infrastructure project
+GK,When did the war crimes tribunal begin?,2010
+GK,What is the Digital Security Act?,A law introduced in 2018 to regulate online content
+GK,When was the Padma Bridge inaugurated?,2022
+GK,What international crisis affected Bangladesh's economy in 2022?,Global inflation and fuel price hikes
+GK,What protest movement emerged in 2023?,Anti-government rallies led by opposition
+GK,Who won the national elections in early 2024?,Awami League
+GK,When did Sheikh Hasina resign amid unrest?,Mar-24
+GK,What major climate event hit Bangladesh in 2025?,Cyclone Hamim caused major flooding in coastal regions
+GK,When did Bangladesh gain independence?,1971
+GK,Who was the founding father of Bangladesh?,Sheikh Mujibur Rahman
+GK,When was the first general election held in Bangladesh?,1973
+GK,What year did Sheikh Mujibur Rahman become Prime Minister?,1972
+GK,Which political party was formed by Ziaur Rahman?,Bangladesh Nationalist Party (BNP)
+GK,When did Bangladesh adopt its constitution?,1972
+GK,Who was the first female Prime Minister of Bangladesh?,Khaleda Zia
+GK,What is the name of the political alliance led by Awami League?,Grand Alliance
+GK,When was the caretaker government system abolished?,2011
+GK,What is the name of the current Prime Minister of Bangladesh (2025)?,Sheikh Hasina
+GK,When was International Mother Language Day declared by UNESCO?,1999
+GK,What is the literacy rate in Bangladesh as of 2023?,Approximately 76%
+GK,Which social reformer is known for founding BRAC?,Fazle Hasan Abed
+GK,Which organization pioneered microcredit in Bangladesh?,Grameen Bank
+GK,What is a major social issue faced in rural Bangladesh?,Child marriage
+GK,What does the program 'Ashrayan' aim to do?,Provide housing for the homeless
+GK,What percentage of Bangladesh's population is under 25?,Over 45%
+GK,Which ethnic minority resides in the Chittagong Hill Tracts?,Chakma
+GK,What is the national language of Bangladesh?,Bengali
+GK,Which Bengali poet won the Nobel Prize in Literature?,Rabindranath Tagore
+GK,Which day is celebrated as Pohela Falgun?,First day of spring in Bengali calendar
+GK,What is the name of Bangladesh's first solar village?,Char Montaz
+HISTORY,Who became the Nawab of Bengal after the Battle of Giria in 1740?,Alivardi Khan
+HISTORY,What was the outcome of the Battle of Plassey in 1757?,Beginning of British rule in Bengal
+HISTORY,Which company gained control of Bengal after 1765?,British East India Company
+HISTORY,What did the Treaty of Allahabad in 1765 grant the British?,Diwani rights over Bengal
+HISTORY,Who was the last independent Nawab of Bengal?,Siraj ud-Daulah
+HISTORY,When was Dhaka College established?,1841
+HISTORY,What did the Permanent Settlement Act of 1793 establish?,Zamindari system in Bengal
+HISTORY,When did the Sepoy Mutiny take place?,1857
+HISTORY,When was the University of Calcutta established?,1857
+HISTORY,What movement emerged in Bengal in 1905?,Swadeshi Movement
+HISTORY,What year was the All India Muslim League founded?,1906
+HISTORY,Where was the Muslim League founded?,Dhaka
+HISTORY,What was the objective of the Lahore Resolution in 1940?,A separate Muslim homeland
+HISTORY,Who was the main architect of the Lahore Resolution?,A. K. Fazlul Huq
+HISTORY,When was the partition of Bengal reversed?,1911
+HISTORY,When did East Bengal become East Pakistan?,1947
+HISTORY,What was the language movement about?,Recognition of Bengali as a state language
+HISTORY,When did the Language Movement peak?,1952
+HISTORY,Who were the martyrs of the Language Movement?,"Salam, Rafiq, Barkat, Jabbar"
+HISTORY,What year did Pakistan impose Urdu as the only state language?,1948
+HISTORY,When did the Liberation War of Bangladesh begin?,"March 26, 1971"
+HISTORY,What was Operation Searchlight?,Pakistani military crackdown in East Pakistan
+HISTORY,Who declared Bangladesh's independence?,Sheikh Mujibur Rahman
+HISTORY,When did the war of liberation end?,"December 16, 1971"
+HISTORY,What was the role of Mukti Bahini?,Bangladeshi guerrilla resistance movement
+HISTORY,Who led the military coup in 1975?,"Khaled Mosharraf, followed by Ziaur Rahman"
+HISTORY,What was the main demand of the 1952 Language Movement?,Recognition of Bengali as a state language
+HISTORY,What is the significance of the Shaheed Minar?,Memorial for Language Movement martyrs
+HISTORY,When was the Battle of Plassey fought?,1757
+HISTORY,What was the significance of the Battle of Buxar?,Secured British rule over Bengal
+HISTORY,Who led the Fakir-Sannyasi Rebellion?,Majnu Shah
+HISTORY,What was the Indigo Revolt?,Farmers' protest against forced indigo farming
+HISTORY,When did the partition of Bengal first occur?,1905
+HISTORY,Who annulled the partition of Bengal in 1911?,Lord Hardinge
+HISTORY,What was the Bengal Famine of 1943?,A deadly famine under British rule
+HISTORY,When was the Lahore Resolution passed?,1940
+HISTORY,What day is observed as Victory Day in Bangladesh?,Dec-16
+HISTORY,What is the date of Language Martyrs Day?,Feb-21
+SPORTS,What is the most popular sport in Bangladesh?,Cricket
+SPORTS,Who is a famous Bangladeshi cricketer known for all-rounder skills?,Shakib Al Hasan
+SPORTS,When did Bangladesh gain Test status in cricket?,2000
+SPORTS,Which city hosted the 2011 Cricket World Cup matches in Bangladesh?,Dhaka
+SPORTS,What is the name of Bangladesh's T20 franchise league?,Bangladesh Premier League
+SPORTS,Which Bangladeshi shooter won gold in Commonwealth Games?,Abdullah Hel Baki
+SPORTS,What is the national sport of Bangladesh?,Kabaddi
+SPORTS,Which stadium is known as the home of cricket in Bangladesh?,Sher-e-Bangla National Cricket Stadium
+SPORTS,When did Bangladesh win the SAFF Championship?,2003
+SPORTS,Which game is popular in rural Bangladesh besides cricket?,Ha-du-du (Kabaddi)
